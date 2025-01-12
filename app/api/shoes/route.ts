@@ -30,6 +30,7 @@ export async function GET(request: Request) {
 
       ],
       salomon: [
+        { id: '1', name: 'SALOMON MENS ULTRA FLOW GROTEX ', image: '/shoes/salomon/1salomon.jpg', price:1862517, sizes: ['39', '40', '41', '42', '43','44','45'] },
 
       ],
       on: [
