@@ -9,7 +9,7 @@ export async function GET(request: Request) {
     const shoes: Record<string, Array<{ id: string; name: string; image: string; price: number; sizes: string[] }>> = {
       adidas: [
         { id: 'adidas 1', name: 'adidas Mens Run Falcon 5 Sneaker', image: '/shoes/adidas/adidas 1.jpg', price:  1051700, sizes: ['40', '41', '42', '43', '44','45'] },
-        
+        { id: 'adidas 2', name: 'adidas Mens Run 84 Sneaker', image: '/shoes/adidas/adidas 2.jpg', price:  1051700, sizes: ['40', '41', '42', '43', '44','45'] },
         
       ],
       ortuseight: [
