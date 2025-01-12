@@ -11,6 +11,7 @@ export async function GET(request: Request) {
         
       ],
       ortuseight: [
+        { id: '1', name: 'HYPERBLAST SHADOW VantaBlack', image: '/shoes/orthus/1 ortus.jpg', price: 699000, sizes: ['39', '40', '41', '42', '43','44','45'] },
         
       ],
       nike: [
