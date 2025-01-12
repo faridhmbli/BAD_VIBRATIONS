@@ -44,6 +44,14 @@ export async function GET(request: Request) {
 
       ],
       newbalance: [
+        { id: 'nb 1', name: 'New Balance Womens Fresh Foam Arishi V4 Running Shoe', image: '/shoes/new_balance/nb 1.jpg', price:1064482, sizes: ['40', '41', '42', '43', '44','45'] },
+        { id: 'nb 2', name: 'New Balance Mens Fresh Foam X 1080 V13 Running Shoe', image: '/shoes/new_balance/nb 2.jpg', price: 2831338, sizes: ['40', '41', '42', '43', '44','45'] },
+        { id: 'nb 3', name: 'New Balance Mens 520 V8 Running Shoe', image: '/shoes/new_balance/nb 3.jpg', price: 1131791, sizes: ['40', '41', '42', '43', '44','45'] },
+
+
+
+
+
 
       ],
       salomon: [
