@@ -74,8 +74,12 @@ export async function GET(request: Request) {
       on: [
         { id: '1', name: 'ON WOMENS CLOUDSWIFT SNEAKERS ', image: '/shoes/oncloud/1 oncloud.jpg', price:  3502602., sizes: ['39', '40', '41', '42', '43','44','45'] },
         { id: '2', name: 'ON MENS CLOUD SNEAKERS ', image: '/shoes/oncloud/2 oncloud.jpg', price:  3247150., sizes: ['39', '40', '41', '42', '43','44','45'] },
-        { id: '3', name: 'HAWKWELL WOMENS CLOUD ZERO ', image: '/shoes/oncloud/3 oncloud.jpg', price:  974226., sizes: ['39', '40', '41', '42', '43','44','45'] },
-        { id: '4', name: 'ON MENS CLOUDSURFER SNEAKER ', image: '/shoes/oncloud/4 oncloud.jpg', price:   3083940., sizes: ['39', '40', '41', '42', '43','44','45'] },
+        { id: '3', name: 'HAWKWELL WOMENS CLOUD ZERO ', image: '/shoes/oncloud/3 oncloud.jpg', price:974226., sizes: ['39', '40', '41', '42', '43','44','45'] },
+        { id: '4', name: 'ON MENS CLOUDSURFER SNEAKER ', image: '/shoes/oncloud/4 oncloud.jpg', price:3083940., sizes: ['39', '40', '41', '42', '43','44','45'] },
+        { id: '5', name: 'ON MENS CLOUDMONSTER SNEAKER ', image: '/shoes/oncloud/5 ouncloud.jpg', price:2515546, sizes: ['39', '40', '41', '42', '43','44','45'] },
+        { id: '6', name: 'ORTHOCOMFOOT MOWENS SNEAKERS ', image: '/shoes/oncloud/6 oncloud.jpg', price: 1623818, sizes: ['39', '40', '41', '42', '43','44','45'] },
+        
+
       ]
 
     };
