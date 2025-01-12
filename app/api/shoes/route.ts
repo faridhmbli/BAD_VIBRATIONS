@@ -34,7 +34,7 @@ export async function GET(request: Request) {
       ],
       nike: [
         { id: 'nike 1', name: 'Nike mens Pegasus 39 Road Running', image: '/shoes/nike/nike 1.jpg', price:1941600, sizes: ['40', '41', '42', '43', '44','45'] },
-        
+        { id: 'nike 2', name: 'Nike Mens Downshifter Sneaker', image: '/shoes/nike/nike 2.jpg', price: 1207513, sizes: ['40', '41', '42', '43', '44','45'] },
       ],
       newbalance: [
 
