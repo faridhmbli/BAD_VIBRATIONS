@@ -37,6 +37,8 @@ export async function GET(request: Request) {
         { id: '5', name: 'SALOMON MENS ULTRA FLOW GTX SNEAKER ', image: '/shoes/salomon/5 salomon.jpg', price: 2035435, sizes: ['39', '40', '41', '42', '43','44','45'] },
         { id: '6', name: 'SALOMON MENS OUTPULSE MID GORE TEX HIKING BOOT CLIMBING SHOE ', image: '/shoes/salomon/6 salomon.jpg', price: 2676496, sizes: ['39', '40', '41', '42', '43','44','45'] },
         { id: '7', name: 'SALOMON MENS WANDER ', image: '/shoes/salomon/7 salomon.jpg', price:  1703225, sizes: ['39', '40', '41', '42', '43','44','45'] },
+        { id: '8', name: 'SALOMON MENS ULTRA FLOW GORE TEX ', image: '/shoes/salomon/8salomon.jpg', price:  1757890., sizes: ['39', '40', '41', '42', '43','44','45'] },
+
 
 
 
