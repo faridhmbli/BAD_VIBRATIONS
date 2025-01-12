@@ -32,6 +32,7 @@ export async function GET(request: Request) {
       salomon: [
         { id: '1', name: 'SALOMON MENS ULTRA FLOW GROTEX ', image: '/shoes/salomon/1salomon.jpg', price:1862517, sizes: ['39', '40', '41', '42', '43','44','45'] },
         { id: '2', name: 'SALOMON MENS Speedcross  ', image: '/shoes/salomon/2salomon.jpg', price:1625687, sizes: ['39', '40', '41', '42', '43','44','45'] },
+        { id: '3', name: 'SALOMON MENS Speedcross PEAK SHOE ', image: '/shoes/salomon/3salomon.jpg', price:2110052, sizes: ['39', '40', '41', '42', '43','44','45'] },
 
       ],
       on: [
