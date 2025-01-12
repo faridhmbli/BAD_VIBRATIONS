@@ -34,6 +34,7 @@ export async function GET(request: Request) {
         { id: '2', name: 'SALOMON MENS Speedcross  ', image: '/shoes/salomon/2salomon.jpg', price:1625687, sizes: ['39', '40', '41', '42', '43','44','45'] },
         { id: '3', name: 'SALOMON MENS Speedcross PEAK SHOE ', image: '/shoes/salomon/3salomon.jpg', price:2110052, sizes: ['39', '40', '41', '42', '43','44','45'] },
         { id: '4', name: 'SALOMON MENS Speedcross EXLIXIR TOUR SNEAKER ', image: '/shoes/salomon/4salomon.jpg', price: 1894472, sizes: ['39', '40', '41', '42', '43','44','45'] },
+        { id: '5', name: 'SALOMON MENS ULTRA FLOW GTX SNEAKER ', image: '/shoes/salomon/5 salomon.jpg', price: 2035435, sizes: ['39', '40', '41', '42', '43','44','45'] },
 
 
       ],
