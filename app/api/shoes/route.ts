@@ -50,7 +50,8 @@ export async function GET(request: Request) {
         { id: 'nb 4', name: 'New Balance Mens Fresh Foam X More V4 Running Shoe', image: '/shoes/new_balance/nb 4.jpg', price: 2426838, sizes: ['40', '41', '42', '43', '44','45'] },
         { id: 'nb 5', name: 'New Balance Womens Fresh Foam ROAV V1 Sneaker', image: '/shoes/new_balance/nb 5.jpg', price: 1197000, sizes: ['40', '41', '42', '43', '44','45'] },
         { id: 'nb 6', name: 'New Balance Womens Fresh Foam X 1080 V13 Running Shoe', image: '/shoes/new_balance/nb 6.jpg', price: 2698000, sizes: ['40', '41', '42', '43', '44','45'] },
-
+        { id: 'nb 7', name: 'New Balance Mens Fresh Foam Roav V1 Sneaker', image: '/shoes/new_balance/nb 7.jpg', price: 1374000, sizes: ['40', '41', '42', '43', '44','45'] },
+        { id: 'nb 8', name: 'New Balance Mens Fresh Foam X 880 V14 Running Shoe', image: '/shoes/new_balance/nb 8.jpg', price: 1779638, sizes: ['40', '41', '42', '43', '44','45'] },
 
 
 
