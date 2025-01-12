@@ -13,7 +13,7 @@ export async function GET(request: Request) {
         { id: 'adidas 3', name: 'adidas Mens Response Running Sneaker', image: '/shoes/adidas/adidas 3.jpg', price:  692342, sizes: ['40', '41', '42', '43', '44','45'] },
         { id: 'adidas 4', name: 'adidas Mens Duramo SL Running Sneaker', image: '/shoes/adidas/adidas 4.jpg', price:  647200, sizes: ['40', '41', '42', '43', '44','45'] },
         { id: 'adidas 5', name: 'adidas Womens Cloudfoam Pure Sportswear Sneaker', image: '/shoes/adidas/adidas 5.jpg', price: 618237, sizes: ['40', '41', '42', '43', '44','45'] },
-
+        { id: 'adidas 6', name: 'adidas Mens Racer TR23 Sneaker', image: '/shoes/adidas/adidas 6.jpg', price: 711272, sizes: ['40', '41', '42', '43', '44','45'] },
 
 
 
