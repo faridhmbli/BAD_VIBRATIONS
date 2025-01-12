@@ -12,6 +12,12 @@ export async function GET(request: Request) {
         { id: 'adidas 2', name: 'adidas Mens Run 84 Sneaker', image: '/shoes/adidas/adidas 2.jpg', price:  1051700, sizes: ['40', '41', '42', '43', '44','45'] },
         { id: 'adidas 3', name: 'adidas Mens Response Running Sneaker', image: '/shoes/adidas/adidas 3.jpg', price:  692342, sizes: ['40', '41', '42', '43', '44','45'] },
         { id: 'adidas 4', name: 'adidas Mens Duramo SL Running Sneaker', image: '/shoes/adidas/adidas 4.jpg', price:  647200, sizes: ['40', '41', '42', '43', '44','45'] },
+        { id: 'adidas 5', name: 'adidas Womens Cloudfoam Pure Sportswear Sneaker', image: '/shoes/adidas/adidas 5.jpg', price: 618237, sizes: ['40', '41', '42', '43', '44','45'] },
+
+
+
+
+     
       ],
       ortuseight: [
         { id: '1', name: 'HYPERBLAST SHADOW VantaBlack', image: '/shoes/orthus/1 ortus.jpg', price: 699000, sizes: ['39', '40', '41', '42', '43','44','45'] },
