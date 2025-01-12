@@ -15,7 +15,7 @@ export async function GET(request: Request) {
         { id: 'adidas 5', name: 'adidas Womens Cloudfoam Pure Sportswear Sneaker', image: '/shoes/adidas/adidas 5.jpg', price: 618237, sizes: ['40', '41', '42', '43', '44','45'] },
         { id: 'adidas 6', name: 'adidas Mens Racer TR23 Sneaker', image: '/shoes/adidas/adidas 6.jpg', price: 711272, sizes: ['40', '41', '42', '43', '44','45'] },
         { id: 'adidas 7', name: 'adidas Mens UBounce DNA Sneaker', image: '/shoes/adidas/adidas 7.jpg', price: 970800, sizes: ['40', '41', '42', '43', '44','45'] },
-
+        { id: 'adidas 8', name: 'adidas Mens Supernova Rise Sneaker', image: '/shoes/adidas/adidas 8.jpg', price: 970800, sizes: ['40', '41', '42', '43', '44','45'] },
 
      
       ],
