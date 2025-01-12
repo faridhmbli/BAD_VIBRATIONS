@@ -38,7 +38,7 @@ export async function GET(request: Request) {
         { id: 'nike 3', name: 'Nike Mens Sneaker Running Shoes', image: '/shoes/nike/nike 3.jpg', price:  1647306, sizes: ['40', '41', '42', '43', '44','45'] },
         { id: 'nike 4', name: 'Nike Pegasus 41 Blueprint', image: '/shoes/nike/nike 4.png', price:  2099000, sizes: ['40', '41', '42', '43', '44','45'] },
         { id: 'nike 5', name: 'Nike Vaporfly 3', image: '/shoes/nike/nike 5.jpeg', price: 3399000, sizes: ['40', '41', '42', '43'] },
-
+        { id: 'nike 6', name: 'Nike Invincible 3 Electric', image: '/shoes/nike/nike 6.png', price:2999000, sizes: ['40', '41', '42', '43', '44'] },
 
 
 
