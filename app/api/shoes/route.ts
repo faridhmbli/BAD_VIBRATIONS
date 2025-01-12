@@ -16,7 +16,7 @@ export async function GET(request: Request) {
         { id: '3', name: 'HYPERBLAST TOSCA ORTRANGE', image: '/shoes/orthus/3 ortus.jpg', price: 699000, sizes: ['39', '40', '41', '42', '43','44','45'] },
         { id: '4', name: 'SHKHARA Graphite Sage', image: '/shoes/orthus/4 ortus.jpg', price: 1199000, sizes: ['39', '40', '41', '42', '43','44','45'] },
         { id: '5', name: 'SHKHARA Olive Pine', image: '/shoes/orthus/5 ortus.jpg', price:1199000, sizes: ['39', '40', '41', '42', '43','44','45'] },
-
+        { id: '6', name: 'HYPERGLIDE WHITE ORTRED NAVY ', image: '/shoes/orthus/6 ortus.jpg', price:699000, sizes: ['39', '40', '41', '42', '43','44','45'] },
 
       ],
       nike: [
