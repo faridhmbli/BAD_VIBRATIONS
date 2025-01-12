@@ -18,6 +18,8 @@ export async function GET(request: Request) {
         { id: '5', name: 'SHKHARA Olive Pine', image: '/shoes/orthus/5 ortus.jpg', price:1199000, sizes: ['39', '40', '41', '42', '43','44','45'] },
         { id: '6', name: 'HYPERGLIDE WHITE ORTRED NAVY ', image: '/shoes/orthus/6 ortus.jpg', price:699000, sizes: ['39', '40', '41', '42', '43','44','45'] },
         { id: '7', name: 'White CyanHYPERBLAST ', image: '/shoes/orthus/7 ortus.jpg', price:699000, sizes: ['39', '40', '41', '42', '43','44','45'] },
+        { id: '8', name: 'HYPERBLAST Black Purple ', image: '/shoes/orthus/8 ortus.jpg', price:699000, sizes: ['39', '40', '41', '42', '43','44','45'] },
+
 
 
       ],
