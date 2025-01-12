@@ -5,23 +5,31 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --primary-color: #3490dc; 
+  --secondary-color: #ff6347;
+  --accent-color: #00c2a9;
+  --card-bg: #f8fafc; 
+  --shadow-light: 0 2px 4px rgba(0, 0, 0, 0.1);
+  --shadow-dark: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --primary-color: #1e40af; 
+    --secondary-color: #ea580c; 
+    --accent-color: #22c55e; 
+    --card-bg: #111827; 
+    --shadow-light: 0 2px 4px rgba(255, 255, 255, 0.1);
+    --shadow-dark: 0 2px 6px rgba(255, 255, 255, 0.2);
   }
 }
-
+/* Mengatur dasar font dan background */
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  transition: background 0.3s ease, color 0.3s ease;
 }
