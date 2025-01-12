@@ -77,7 +77,8 @@ export async function GET(request: Request) {
         { id: '3', name: 'HAWKWELL WOMENS CLOUD ZERO ', image: '/shoes/oncloud/3 oncloud.jpg', price:974226., sizes: ['39', '40', '41', '42', '43','44','45'] },
         { id: '4', name: 'ON MENS CLOUDSURFER SNEAKER ', image: '/shoes/oncloud/4 oncloud.jpg', price:3083940., sizes: ['39', '40', '41', '42', '43','44','45'] },
         { id: '5', name: 'ON MENS CLOUDMONSTER SNEAKER ', image: '/shoes/oncloud/5 ouncloud.jpg', price:2515546, sizes: ['39', '40', '41', '42', '43','44','45'] },
-        { id: '6', name: 'ORTHOCOMFOOT MOWENS SNEAKERS ', image: '/shoes/oncloud/6 oncloud.jpg', price: 1623818, sizes: ['39', '40', '41', '42', '43','44','45'] },
+        { id: '6', name: 'ORTHOCOMFOOT WOWENS SNEAKERS ', image: '/shoes/oncloud/6 oncloud.jpg', price: 1623818, sizes: ['39', '40', '41', '42', '43','44','45'] },
+        { id: '7', name: 'ON WOMENS CLOUDRUNNER SNEAKERS ', image: '/shoes/oncloud/7 oncloud.jpg', price:  4547147, sizes: ['39', '40', '41', '42', '43','44','45'] },
         
 
       ]
