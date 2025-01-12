@@ -70,11 +70,10 @@ export async function GET(request: Request) {
 
 
 
-
-
       ],
       on: [
-
+        { id: '1', name: 'ON WOMENS CLOUDSWIFT SNEAKERS ', image: '/shoes/oncloud/1 oncloud.jpg', price:  3502602., sizes: ['39', '40', '41', '42', '43','44','45'] },
+        { id: '2', name: 'ON MENS CLOUD SNEAKERS ', image: '/shoes/oncloud/2 oncloud.jpg', price:  3247150., sizes: ['39', '40', '41', '42', '43','44','45'] },
       ]
 
     };
