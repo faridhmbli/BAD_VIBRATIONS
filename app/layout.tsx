@@ -48,6 +48,14 @@ export default function RootLayout({
                     Home
                   </a>
                 </li>
+                <li>
+                  <a
+                    href="/about"
+                    className="text-gray-800 hover:text-blue-600 no-underline"
+                  >
+                    About
+                  </a>
+                </li>
               </ul>
             </nav>
           </nav>
