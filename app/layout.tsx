@@ -43,7 +43,7 @@ export default function RootLayout({
                 <li>
                   <a
                     href="/"
-                    className="text-gray-800 hover:text-blue-600 no-underline"
+                    className="text-white-800 hover:text-blue-600 no-underline"
                   >
                     Home
                   </a>
