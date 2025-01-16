@@ -56,6 +56,14 @@ export default function RootLayout({
                     About
                   </a>
                 </li>
+                <li>
+                  <a
+                    href="/contact"
+                    className="text-gray-800 hover:text-blue-600 no-underline"
+                  >
+                    Contact
+                  </a>
+                </li>
               </ul>
             </nav>
           </nav>
