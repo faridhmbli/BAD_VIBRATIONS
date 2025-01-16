@@ -38,12 +38,19 @@ export default function RootLayout({
               <h1 className="text-3xl font-bold">
                 <Link href="/">ShoesVerse</Link> {/* Link to Home */}
               </h1>
-              <div className="space-x-6">
-                <Link href="/" className="hover:text-gray-400">Home</Link> {/* Home link */}
-                <a href="#" className="hover:text-gray-400">About</a>
-                <a href="#" className="hover:text-gray-400">Contact</a>
-              </div>
+              <nav>
+              <ul className="flex space-x-4">
+                <li>
+                  <a
+                    href="/"
+                    className="text-gray-800 hover:text-blue-600 no-underline"
+                  >
+                    Home
+                  </a>
+                </li>
+              </ul>
             </nav>
+          </nav>
           </header>
           
           {/* Main Content */}
