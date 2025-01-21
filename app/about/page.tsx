@@ -21,6 +21,12 @@ const About = () => {
               <p className="text-gray-600">Kami menghadirkan produk-produk dengan teknologi terbaru untuk performa optimal.</p>
             </div>
           </div>
+          <div className="flex items-center space-x-4">
+            <div>
+              <h2 className="text-xl font-semibold text-dark blue-500">Dukungan Pelanggan</h2>
+              <p className="text-gray-600">Tim kami siap membantu Anda dengan informasi dan rekomendasi terbaik.</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
