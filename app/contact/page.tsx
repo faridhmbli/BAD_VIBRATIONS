@@ -164,6 +164,15 @@ export default function ContactPage() {
                             >
                                 Website
                             </a>
+                              {/* Tautan Instagram Hoka */}
+                              <a
+                                href="https://www.instagram.com/hoka/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-blue-600 hover:underline"
+                            >
+                                Instagram
+                            </a>
                         </div>
                     </div>
 
