@@ -32,6 +32,29 @@ export default function ContactPage() {
                             </a>
                         </div>
                     </div>
+                    <div className="flex flex-col items-center">
+                    <p className="font-semibold text-gray-800">Nike</p>
+                        <div className="flex space-x-4 mt-2">
+                            {/* Tautan Website Nike */}
+                            <a
+                                href="https://www.nike.com/w/mens-shoes-3yaepznik1zy7ok"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-blue-600 hover:underline"
+                            >
+                                Website
+                            </a>
+                            {/* Tautan Instagram Nike */}
+                            <a
+                                href="https://www.instagram.com/nike/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-blue-600 hover:underline"
+                            >
+                                Instagram
+                            </a>
+                        </div>
+                    </div>
           </div>
         </div>
       </div>
