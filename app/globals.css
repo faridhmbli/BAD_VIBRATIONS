@@ -79,3 +79,18 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
+/* Kartu dengan bayangan dan sudut melengkung */
+.card {
+  background-color: var(--card-bg);
+  border-radius: 12px;
+  box-shadow: var(--shadow-light);
+  padding: 20px;
+  margin-bottom: 20px;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: var(--shadow-dark);
+  transform: translateY(-5px);
+}
+
