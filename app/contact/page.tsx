@@ -77,7 +77,22 @@ export default function ContactPage() {
                             >
                                 Instagram
                             </a>
-                            </div>
+                         </div>
+                    </div>
+
+                    <div className="flex flex-col items-center">
+                    <p className="font-semibold text-gray-800">Ortus</p>
+                    <div className="flex space-x-4 mt-2">
+                            {/* Tautan Website Ortus */}
+                            <a
+                                href="https://ortuseight.com/catalog/footwear"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-blue-600 hover:underline"
+                            >
+                                Website
+                            </a>
+                        </div>
                     </div>
 
           </div>
