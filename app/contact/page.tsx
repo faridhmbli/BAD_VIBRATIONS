@@ -68,6 +68,15 @@ export default function ContactPage() {
                             >
                                 Website
                             </a>
+                            {/* Tautan Instagram New Balance */}
+                            <a
+                                href="https://www.instagram.com/newbalance/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-blue-600 hover:underline"
+                            >
+                                Instagram
+                            </a>
                             </div>
                     </div>
 
