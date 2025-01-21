@@ -15,6 +15,12 @@ const About = () => {
               <p className="text-gray-600"> Temukan sepatu yang sesuai dengan kebutuhan olahraga Anda, mulai dari lari, basket, hingga hiking. </p>
             </div>
           </div>
+          <div className="flex items-center space-x-4">
+            <div>
+              <h2 className="text-xl font-semibold text-dark blue-500">Inovasi Terkini</h2>
+              <p className="text-gray-600">Kami menghadirkan produk-produk dengan teknologi terbaru untuk performa optimal.</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
