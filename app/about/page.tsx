@@ -34,6 +34,14 @@ const About = () => {
             </div>
           </div>
         </div>
+        <div className="text-center mt-8">
+          <a
+            href="/"
+            className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-full transition duration-300"
+          >
+            Jelajahi Koleksi Kami
+          </a>
+        </div>
       </div>
     </div>
   );
