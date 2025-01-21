@@ -117,4 +117,17 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: var(--shadow-dark);
   transform: translateY(-5px);
 }
+/* Desain form input */
+input, textarea, select {
+  padding: 12px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+  transition: border-color 0.3s ease;
+}
 
+input:focus, textarea:focus, select:focus {
+  border-color: var(--primary-color);
+  outline: none;
+}
