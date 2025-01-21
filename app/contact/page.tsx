@@ -128,6 +128,21 @@ export default function ContactPage() {
                         </div>
                     </div>
 
+                    <div className="flex flex-col items-center">
+                    <p className="font-semibold text-gray-800">On Cloud</p>
+                    <div className="flex space-x-4 mt-2">
+                            {/* Tautan Website On Cloud */}
+                            <a
+                                href="https://www.on-running.com/en-us/shop/shoes"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-blue-600 hover:underline"
+                            >
+                                Website
+                            </a>
+                        </div>
+                    </div>
+
           </div>
         </div>
       </div>
