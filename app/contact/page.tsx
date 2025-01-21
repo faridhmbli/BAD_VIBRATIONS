@@ -8,6 +8,7 @@ export default function ContactPage() {
           <h2 className="text-3xl font-extrabold text-gray-800">Contact</h2>
           <p className="text-gray-700 mt-4 text-lg leading-relaxed text-justify">
           </p>
+    
         </div>
       </div>
     );
