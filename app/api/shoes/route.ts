@@ -94,7 +94,8 @@ export async function GET(request: Request) {
         { id: '8', name: 'asics women gel nimbus 27 standard ', image: '/shoes/asics/asics 8.png', price:  2599000, sizes: ['37', '38', '39', '40', '41','42','43'] },
       ],
       hoka:[
-        { id: '', name: 'hoka men speedgoat 5 ', image: '/shoes/hoka/hoka 1.png', price:  2799000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
+        { id: '1', name: 'hoka men speedgoat 5 ', image: '/shoes/hoka/hoka 1.png', price:  2799000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
+        { id: '2', name: 'hoka unisex rocket x 2 ', image: '/shoes/hoka/hoka 2.png', price:  4499000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
       ]
 
     };
