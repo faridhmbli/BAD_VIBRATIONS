@@ -100,6 +100,7 @@ export async function GET(request: Request) {
         { id: '4', name: 'hoka men speedgoat 5 ', image: '/shoes/hoka/hoka 4.png', price:  2799000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
         { id: '5', name: 'hoka women Clifton 9 ', image: '/shoes/hoka/hoka 5.png', price:  2499000, sizes: ['37', '38', '39', '40', '41','42','43'] },
         { id: '6', name: 'hoka women Clifton 9 white ', image: '/shoes/hoka/hoka 6.png', price:  2499000, sizes: ['37', '38', '39', '40', '41','42','43'] },
+        { id: '7', name: 'hoka women Clifton 9 grey ', image: '/shoes/hoka/hoka 7.png', price:  2499000, sizes: ['37', '38', '39', '40', '41','42','43'] },
       ]
 
     };
