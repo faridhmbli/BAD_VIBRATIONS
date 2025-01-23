@@ -90,6 +90,7 @@ export async function GET(request: Request) {
         { id: '4', name: 'asics men gel nimbus 27 deluxe standard ', image: '/shoes/asics/asics 4.png', price:  2799000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
         { id: '5', name: 'asics unisex superblast 2 standard ', image: '/shoes/asics/asics 5.png', price:  3299000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
         { id: '6', name: 'asics women metafuji trail ', image: '/shoes/asics/asics 6.png', price:  5000000, sizes: ['37', '38', '39', '40', '41','42','43'] },
+        { id: '7', name: 'asics women fujispeed 3 standard ', image: '/shoes/asics/asics 7.png', price:  2399000, sizes: ['37', '38', '39', '40', '41','42','43'] },
 
 
       ]
