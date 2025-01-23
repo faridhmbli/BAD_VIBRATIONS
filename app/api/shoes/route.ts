@@ -87,6 +87,7 @@ export async function GET(request: Request) {
         { id: '1', name: 'asics men novablast 5 ', image: '/shoes/asics/asics 1.png', price:  2000000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
         { id: '2', name: 'asics men gel nimbus 27 standard ', image: '/shoes/asics/asics 2.png', price:  2599000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
         { id: '3', name: 'asics men fujispeed 3 standard ', image: '/shoes/asics/asics 3.png', price:  2399000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
+        { id: '4', name: 'asics men gel nimbus 27 deluxe standard ', image: '/shoes/asics/asics 4.png', price:  2799000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
 
 
       ]
