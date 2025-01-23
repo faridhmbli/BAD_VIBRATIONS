@@ -85,6 +85,7 @@ export async function GET(request: Request) {
       ],
       asics: [
         { id: '1', name: 'asics men novablast 5 ', image: '/shoes/asics/asics 1.png', price:  2000000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
+        { id: '2', name: 'asics men gel nimbus 27 standard ', image: '/shoes/asics/asics 2.png', price:  2599000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
 
 
       ]
