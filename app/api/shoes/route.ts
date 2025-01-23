@@ -82,6 +82,11 @@ export async function GET(request: Request) {
         { id: '8', name: 'ON CLOUDFLYER WOMENS BLACK AND WHITE ', image: '/shoes/oncloud/8 oncloud.jpg', price: 2581155, sizes: ['37', '38', '39', '40', '41','42','43', '44','45','46'] },
         
 
+      ],
+      asics: [
+        { id: '1', name: 'asics men novablast 5 ', image: '/shoes/asics/asics 1.png', price:  2000000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
+
+
       ]
 
     };
