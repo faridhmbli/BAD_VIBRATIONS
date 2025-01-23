@@ -7,6 +7,7 @@ export async function GET() {
       { id: 'nike', name: 'Nike', logo: '/images/nike-logo.png' },
       { id: 'newbalance', name: 'New Balance', logo: '/images/newbalance-logo.png' },
       { id: 'on', name: 'On', logo: '/images/on-logo.png' },
+      { id: 'asics', name: 'Asics', logo: '/images/asics-logo.png' },
     ];
   
     return NextResponse.json(brands);
