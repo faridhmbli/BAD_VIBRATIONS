@@ -92,8 +92,9 @@ export async function GET(request: Request) {
         { id: '6', name: 'asics women metafuji trail ', image: '/shoes/asics/asics 6.png', price:  5000000, sizes: ['37', '38', '39', '40', '41','42','43'] },
         { id: '7', name: 'asics women fujispeed 3 standard ', image: '/shoes/asics/asics 7.png', price:  2399000, sizes: ['37', '38', '39', '40', '41','42','43'] },
         { id: '8', name: 'asics women gel nimbus 27 standard ', image: '/shoes/asics/asics 8.png', price:  2599000, sizes: ['37', '38', '39', '40', '41','42','43'] },
-
-
+      ],
+      hoka:[
+        { id: '', name: 'hoka men speedgoat 5 ', image: '/shoes/hoka/hoka 1.png', price:  2799000, sizes: ['39', '40', '41','42','43', '44','45','46'] },
       ]
 
     };
