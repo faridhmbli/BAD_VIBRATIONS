@@ -15,7 +15,7 @@ const geistMono = localFont({
   weight: "100 900",
 });
 export const metadata: Metadata = {
-  title: "Sepatu Olahraga Keren",
+  title: "ShoeVerse",
   description: "Tampilan modern untuk katalog sepatu olahraga.",
 };
 export default function RootLayout({
